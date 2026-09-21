@@ -1,5 +1,4 @@
 # Riley Carney
-![GitHub Logo](https://avatars.githubusercontent.com/u/3312970?v=4)
 
 **IT Systems Engineer | Backend & Data Infrastructure | AI Adoption**
 
