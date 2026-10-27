@@ -6,7 +6,7 @@ IT Systems Engineer with over 8 years of experience specializing in scalable sys
 
 ### Connect With Me:
 
-* **Website:** [rileycarney.github.io](https://rileycarney.github.io/)
+* **Website:** [carn.si](https://carn.si/)
 * **LinkedIn:** [linkedin.com/in/riley-carney](http://linkedin.com/in/riley-carney)
 * **Email:** carneyriley@gmail.com
 
